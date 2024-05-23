@@ -8,7 +8,7 @@ class RestaurantDatabase():
                  port="3306",
                  database="restaurant_reservations",
                  user='root',
-                 password='YourPassword'):
+                 password='7672'):
 
         self.host = host
         self.port = port
